@@ -1,0 +1,14 @@
+echo "# MERN_movie_reviews" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/JustinOccasionallyCodes/MERN_movie_reviews.git
+git push -u origin main
+
+
+
+//ACP
+git add .
+git commit -m "MERN_MOvies"
+git push -u origin main
